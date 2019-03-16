@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 
+# publisher of org
+/wp_org
+
 # testing
 /coverage
 
